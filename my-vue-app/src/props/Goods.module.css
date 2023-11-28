@@ -1,0 +1,56 @@
+.image{
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+}
+.contayner{
+    width: 1000px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.button{
+    width: 150px;
+    height: 35px;
+    background-color:lime;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.name{
+    color:black;
+    margin-top: 0px;
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+
+}
+.cost1{
+    text-decoration: line-through;
+    color: lightslategrey;
+    margin-top: 0px;
+}
+.button2{
+    width: 70px;
+    height: 35px;
+    background-color:wheat;
+    border: 0.1em solid blue;
+    border-radius: 5px;
+    color: blue;
+    margin-left:120px;
+    border: none;
+}
+.p{
+    color:red;
+}
+.infor{
+    width: 100px;
+position: relative;
+left: 200px;
+border: 0.1em solid black;
+}
